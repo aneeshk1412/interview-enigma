@@ -1,2 +1,3 @@
-# interview-enigma
-Repository for all code and design principles I encounter for interviews. Everything has a code in C++ and in Python for practice.
+# Interview Enigma
+Repository for interview questions (coding and system design).
+Also works as a host for programming idioms I come across.
